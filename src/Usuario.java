@@ -1,4 +1,3 @@
-
 import javax.swing.JOptionPane;
 
 /*
@@ -16,6 +15,8 @@ public class Usuario {
    public static void main(String[] args){
        JOptionPane.showMessageDialog(null,";)");
        JOptionPane.showMessageDialog(null,"SEGUNDO CAMBIO ;)");
+       JOptionPane.showMessageDialog(null,"TERCER CAMBIO ;)");
+       JOptionPane.showMessageDialog(null,"SCUARTO CAMBIO ;)");
    }
     
 }
